@@ -3,7 +3,7 @@
 int main()
 {
   int n, c, k;
- 
+  printf("Problem 8 User-B Edited\n")
   printf("Enter an integer in decimal number system\n");
   scanf("%d", &n);
  
